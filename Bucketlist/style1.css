@@ -1,0 +1,35 @@
+body{
+  /*background: gray;*/
+  background: rgb(255, 255, 255);
+  background-repeat:no-repeat;
+}
+
+.head{
+  background: rgb(255, 0, 0);
+  border: rgb(0, 0, 0);
+  border-width: thick; /* 3 px */
+  border-style: dashed;
+
+  }
+
+  .list1{
+    background-color: rgb(255, 0, 0);
+  }
+.list2{
+    background-color: rgb(255, 145, 0);
+  }
+  .list3{
+    background-color: rgb(9, 255, 0);
+  }
+  .list4{
+    background-color: rgb(0, 72, 255);
+  }
+  .list5{
+    background-color: rgb(153, 0, 255);
+  }
+  .list6{
+    background-color: rgb(255, 0, 230);
+  }
+#backstyle{
+  border: solid 3px mediumorchid;
+}
