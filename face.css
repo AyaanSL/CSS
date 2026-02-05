@@ -1,0 +1,82 @@
+.background{
+    background-color: yellow;
+    width: 500px;
+    height: 600px;
+}
+
+.weye1{
+ background-color: rgb(255, 255, 255);
+   width: 200px;
+   height:200px;
+   margin-top: 50px;
+   margin-left: 30px;
+   position: absolute;
+}
+
+.beye1{
+    background-color: rgb(0, 0, 0);
+   width: 70px;
+   height:70px;
+   margin-top: 50px;
+   margin-left: 50px;
+   position: absolute;
+}
+
+.weye2{
+   background-color: rgb(255, 255, 255);
+   width: 200px;
+   height:200px;
+   margin-top: 50px;
+   margin-left: 250px;
+   position: absolute; 
+}
+
+.beye2{
+    background-color: rgb(0, 0, 0);
+   width: 70px;
+   height:70px;
+   margin-top: 50px;
+   margin-left: 50px;
+   position: absolute;
+}
+
+.mouth{
+    background-color: black;
+    width: 400px;
+    height: 250px;
+    margin-top: 300px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.tongue{
+   background-color: red; 
+   width: 160px;
+   height: 115px;
+   margin-top: 130px;
+   margin-left: 110px;
+   position: absolute;
+}
+
+.line{
+    background-color: black;
+    width:10px;
+    height: 80px;
+    margin-left:75px ;
+}
+
+.tooth1{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+    position: absolute;
+}
+.tooth2plusmore{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+    position: absolute;
+}
