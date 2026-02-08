@@ -22,6 +22,7 @@
 .img{
     position: relative;
     border: 4px;
+    border-width: 5px;
     border-color: #b49567;
     border-style: double;
     border-radius: 10px;
